@@ -55,7 +55,7 @@ global.ownertag = '919832518780'
 global.botname = 'WAIFUBOT-MD-V3' //ur bot name
 global.linkz = "https://youtu.be/YJ1ASWJBvOc" //your theme url which will be displayed on whatsapp
 global.websitex = "https://instagram.com/mr__infinity____man_?igshid=YmMyMTA2M2Y=" //ur website to be displayed
-global.botscript = 'https://wa.me/+919832518789?text=😘LoveU' //script link
+global.botscript = 'https://wa.me/+919832518780?text=😘LoveU' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "WAIFUBOT-MD-V3 " //ur sticker watermark packname
